@@ -38,3 +38,6 @@ range(0,10,-1);
 console.log('calling range(0,10,)');
 range(0,10,);
 
+console.log("test");
+
+
